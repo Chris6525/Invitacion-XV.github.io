@@ -1,0 +1,145 @@
+
+body {                        
+        margin: 0;
+        padding: 0;
+        text-align: center;  
+        background: url("img/fondo_invitacion.png") repeat-x scroll ;                
+        background-size: cover;        
+        background-attachment: fixed;  
+              
+    }   
+                    
+
+.container p {
+        font-family: Arial, sans-serif;                           
+        text-align: center;
+        color: #000000;                   
+        font-size: 40px;
+        margin-top: 190px;
+    }
+
+.container p1{
+        text-align: center;
+        color: #000000;            
+        font-family: 'Parisienne', cursive;
+        font-size: 140px;
+}
+
+
+.fam-cotainer .textos p {
+    font-size: 28px;
+    font-family: 'Bilbo Swash Caps', cursive;
+}
+.fam-cotainer .textos h2 {    
+    font-size: 30px;
+    font-family: 'Bilbo Swash Caps', cursive;
+}
+.fam-cotainer .textos {    
+    display: grid;
+    grid-template-columns: auto auto;      
+    justify-content: space-around;
+}
+
+.fam-cotainer h1 {
+    font-family: 'Bilbo Swash Caps', cursive, negrita;
+    font-size: 35px;
+    margin-top: 400px;
+}
+
+.txt-container img{
+    width: 30px;
+    height: 30px;
+    position: flex;   
+    float: left;     
+    
+}
+
+.txt-container .textos p {
+    font-size: 28px;
+    font-family: 'Bilbo Swash Caps', cursive;
+    display: flex;
+}
+
+¨/*.section4 {
+    padding: 50px;
+}*/
+
+.txt-container .texto h2 {
+    font-family: 'Bilbo Swash Caps', cursive, negrita;
+    font-size: 20px;
+}
+
+.txt-container .textos p1 {
+    font-family: 'Bilbo Swash Caps', cursive;
+    font-size: 20px;
+    text-align: center;
+}
+.txt-container {
+    display: grid;
+    grid-template-columns: auto auto;      
+    justify-content: space-around;    
+    margin-top: 150px;
+}
+
+.texto {
+    font-family: 'Arial Serif', cursive;
+
+}
+
+.mensaje{
+    font-size: 23px; 
+            
+}
+
+.color{                    
+    background-color: #f3d9ff;
+    margin: 0;
+}
+
+.texto p {                        
+    font-size: 28px;
+}
+
+.texto p1 {                    
+    font-weight: bold;
+    font-size: 23px; 
+    font-family: 'Kaushan Script', cursive;    
+}
+
+.mensaje img{
+    /*width: 900vw;
+    height: 110vw;*/
+    width: 70vw;
+    height: 9vw;       
+}
+
+.txtt-container img{
+      width: 30px;
+    height: 30px;
+    position: flex;   
+    float: left; 
+}
+
+.txtt-container .textos p {
+    font-size: 28px;
+    font-family: 'Bilbo Swash Caps', cursive;
+    display: flex;    
+}
+
+.txtt-container .textos h2 {
+    /*font-family: 'Bilbo Swash Caps', cursive, negrita;*/
+    font-size: 25px;
+}
+
+.txtt-container .textos p1 {
+    font-family: 'Bilbo Swash Caps', cursive;
+    font-size: 20px;
+    text-align: center;
+}
+.txtt-container {
+    display: grid;
+    grid-template-columns: auto auto;      
+    justify-content: space-around;    
+    margin-top: 150px;
+}
+
